@@ -14,18 +14,13 @@ Accuracy visualization using charts
 Interactive Streamlit web application
 User-friendly dark themed UI
 🧠 Models Used
-Model
-Accuracy
-Logistic Regression
-74.42%
-SVM
-75.19%
-KNN
-79.84%
-Random Forest
-86.82%
-CNN
-74.42%
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression | 74.42% |
+| SVM | 75.19% |
+| KNN | 79.84% |
+| Random Forest | 86.82% |
+| CNN | 74.42% |
 🏆 Best Performing Model: Random Forest (86.82%)
 🖥️ Tech Stack
 Python
