@@ -1,5 +1,6 @@
 Cervical Cancer Detection System
 AI-powered cervical cancer detection and classification system using Machine Learning and Deep Learning models. This project helps in early diagnosis and screening by analyzing cervical cell images and predicting whether the cell is normal or abnormal.
+
 📌 Features
 Upload cervical cell images
 Predict normal or abnormal cells
@@ -13,6 +14,8 @@ Model comparison dashboard
 Accuracy visualization using charts
 Interactive Streamlit web application
 User-friendly dark themed UI
+
+
 🧠 Models Used
 | Model | Accuracy |
 |-------|----------|
@@ -90,6 +93,7 @@ for model training :
 ```
 python train models.py
 ```
+
 📸 Application Screenshots
 Main Interface
 Upload cervical cell images
@@ -99,6 +103,8 @@ Dashboard
 Compare model accuracies
 Visualize performance graphs
 Identify best model
+
+
 🔍 Working Process
 User uploads cervical cell image
 Image preprocessing is performed
@@ -107,21 +113,30 @@ Prediction is generated
 Result displayed as:
 Normal Cell Detected
 Abnormal Cell Detected
+
+
 🎯 Use Case
 This system can assist in:
 Early cervical cancer screening
 Medical image classification research
 AI-based healthcare applications
 Educational and academic projects
+
+
 📊 Future Improvements
 Improve CNN accuracy
 Add real-time prediction confidence score
 Deploy using Streamlit Cloud or Render
 Add patient report generation
 Integrate larger medical datasets
+
+
 ⚠️ Disclaimer
 This project is developed for educational and research purposes only. It is not intended to replace professional medical diagnosis.
+
 👩‍💻 Author
 Developed by Rakshita Bilki
+
+
 ⭐ GitHub
 If you like this project, give it a ⭐ on GitHub.
