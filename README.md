@@ -32,6 +32,8 @@ User-friendly dark themed UI
 - NumPy
 - Pandas
 - Matplotlib
+
+
 📂 Project Structure
 ```
 Cervical-Cancer-Detection/
