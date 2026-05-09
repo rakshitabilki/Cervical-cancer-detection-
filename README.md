@@ -22,6 +22,7 @@ User-friendly dark themed UI
 | Random Forest | 86.82% |
 | CNN | 74.42% |
 🏆 Best Performing Model: Random Forest (86.82%)
+
 🖥️ Tech Stack
 Python
 Streamlit
