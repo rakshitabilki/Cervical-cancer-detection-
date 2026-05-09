@@ -24,14 +24,14 @@ User-friendly dark themed UI
 🏆 Best Performing Model: Random Forest (86.82%)
 
 🖥️ Tech Stack
-Python
-Streamlit
-Scikit-learn
-TensorFlow / Keras
-OpenCV
-NumPy
-Pandas
-Matplotlib
+- Python
+- Streamlit
+- Scikit-learn
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
 📂 Project Structure
 ```
 Cervical-Cancer-Detection/
